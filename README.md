@@ -10,7 +10,7 @@ Pre Requisits
 3. jsoup jar file must be present at base folder in order to run project. Jsoup is a 3rd party library used for html parsing.
 
 Steps
-1. remove stop words,
+1. remove stop words
 2. Stemming
 3. Create Forward and inverted indexes for retrieving purpose
 4. Search and retrieve information based on given query
